@@ -14,7 +14,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**━━━━━━━━━━━━━━━━━━
  هلا بك انا بوت يمكنني تشغيل الاغاني في المكالمه
 اضغط على زر الاوامر لمعرفة طريقة التشغيل 
-تم اصدار هذا البوت من قناة سورس Cv تابعنا هنا [قناة السورس](t.me/XQQAQ)...
+تم اصدار هذا البوت من قناة سورس Cv تابعنا هنا [قناة السورس](t.me/N1111V)...
 ━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -24,7 +24,7 @@ async def start_(client: Client, message: Message):
                        ),
                   ],[
                     InlineKeyboardButton(
-                        "• قناة البوت •", url=f"https://t.me/XQQAQ"
+                        "• قناة البوت •", url=f"https://t.me/N1111V"
                     ),
                     InlineKeyboardButton(
                         "• كروب الدعم •", url=f"https://t.me/{SUPPORT_GROUP}"
@@ -34,7 +34,7 @@ async def start_(client: Client, message: Message):
                         "• الاوامر •", url=f"https://telegra.ph/%D8%A7%D9%88%D8%A7%D9%85%D8%B1-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-06-08"
                     ),
                     InlineKeyboardButton(
-                        "• مطور السورس •", url="https://t.me/XQQAQ"
+                        "• مطور السورس •", url="https://t.me/T_T_X_N"
                     )]
             ]
        ),
