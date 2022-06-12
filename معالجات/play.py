@@ -229,8 +229,8 @@ async def play(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("• كروب الدعم •", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("• قناة البوت •", url=f"https://t.me/XQQAQ")
+                    InlineKeyboardButton("• تطوير وتعريب ⚠️ •", url=f"https://t.me/{SUPPORT_GROUP}"),
+                    InlineKeyboardButton("• قناة البوت •", url=f"https://t.me/N1111V")
                 ],
                 [InlineKeyboardButton("» ᴄʟᴏsᴇ «", callback_data="close_play")
                 ],
