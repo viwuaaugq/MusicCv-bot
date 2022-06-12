@@ -26,11 +26,11 @@ async def pmPermit(client: USER, message: Message):
                         "• ʙᴏᴛ •", url=f"https://t.me/{lel}"
                     ),
                     InlineKeyboardButton(
-                        "• كروب الدعم •", url="https://t.me/XQQTQ"
+                        "• تطوير وتعريب ⚠️ •", url="https://t.me/T_T_X_N"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "• قناة البوت •", url=f"https://t.me/XQQAQ"
+                        "• قناة البوت •", url=f"https://t.me/N1111V"
                     )]
             ]
         ),
